@@ -61,11 +61,11 @@
 
   <img align="left" alt="branAust's Github Stats" src="https://github-readme-stats-branaust.vercel.app/api?username=branaust&show_icons=true&hide_border=true"/>
 
+  <!--START_SECTION:activity-->
+
 </details>
 
 [website]:
 [twitter]: https://twitter.com/bran_aust
 [instagram]: https://www.instagram.com/fitdeeno/
 [linkedin]:https://www.linkedin.com/in/bran-aust/
-
-<!-- github-readme-stats-9t8wxs5bk.vercel.app -->
