@@ -59,7 +59,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="branAust's Github Stats" src="github-readme-stats-9t8wxs5bk.vercel.app/api?usename=branaust&show_icons=true&hide_border=true"/>
+  <img align="left" alt="branAust's Github Stats" src="github-readme-stats-git-master.branaus.vercel.app/api?usename=branaust&show_icons=true&hide_border=true"/>
 
 </details>
 
