@@ -59,7 +59,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="branAust's Github Stats" src="https://github-readme-stats-branaust.vercel.app/api?usename=branaust&show_icons=true&hide_border=true"/>
+  <img align="left" alt="branAust's Github Stats" src="https://github-readme-stats-branaust.vercel.app/api?username=branaust&show_icons=true&hide_border=true"/>
 
 </details>
 
@@ -67,3 +67,5 @@
 [twitter]: https://twitter.com/bran_aust
 [instagram]: https://www.instagram.com/fitdeeno/
 [linkedin]:https://www.linkedin.com/in/bran-aust/
+
+<!-- github-readme-stats-9t8wxs5bk.vercel.app -->
