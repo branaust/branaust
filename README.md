@@ -44,13 +44,12 @@
 
 ---
 
----
-
 <details>
+
+  <!--START_SECTION:activity-->
+
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="branAust's Github Stats" src="https://github-readme-stats-branaust.vercel.app/api?username=branaust&show_icons=true&hide_border=true"/>
-
-  <!--START_SECTION:activity-->
 
 </details>
