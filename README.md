@@ -16,6 +16,12 @@
 [<img align="left" alt="branaust | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="branaust | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="branaust | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[website]: https://branaust.com
+[twitter]: https://twitter.com/bran_aust
+[instagram]: https://www.instagram.com/fitdeeno/
+[linkedin]: https://www.linkedin.com/in/bran-aust/
+
 <br />
 
 ### Languages and Tools:
@@ -48,8 +54,3 @@
   <!--START_SECTION:activity-->
 
 </details>
-
-[website]:
-[twitter]: https://twitter.com/bran_aust
-[instagram]: https://www.instagram.com/fitdeeno/
-[linkedin]:https://www.linkedin.com/in/bran-aust/
