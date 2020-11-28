@@ -5,9 +5,9 @@
 
 ## I'm a Developer, Student, Teacher and Personal Trainer!
 
-- 🌱 I’m currently learning node.js and express.js
-- 👯 I’m seeking employment and the opportunity to work for an exciting team.
-- 🥅 2020 Goals: Continute to sharpen my web devolopment skills to solve more problems and to better teach others.
+- 🌱 I’m currently building an application called Fit From Home. You can find it here -> www.fitfh.com
+- 👯 I plan on seeking employment and the opportunity to work for an exciting team in 2021.
+- 🥅 2020 Coding Goals: Continue to build upon Fit From Home application!
 - ⚡ Fun fact: I love to cook and workout!
 
 ### Connect with me:
