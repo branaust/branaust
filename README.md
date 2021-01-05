@@ -5,10 +5,10 @@
 
 ## I'm a Developer, Student, Teacher and Personal Trainer!
 
-- 🌱 I’m currently building an application called Fit From Home. You can find it here -> www.fitfh.com
-- 👯 I plan on seeking employment and the opportunity to work for an exciting team in 2021.
-- 🥅 2020 Coding Goals: Continue to build upon Fit From Home application!
-- ⚡ Fun fact: I love to cook and workout!
+- 🌱  I’m currently building an application called Fit From Home. You can find it here -> www.fitfh.com
+- 👯  I plan on seeking employment and the opportunity to work for an exciting team in 2021.
+- 🥅  2020 Coding Goals: Continue to build upon Fit From Home application!
+- ⚡  Fun fact: I love to cook and workout!
 
 ### Connect with me:
 
