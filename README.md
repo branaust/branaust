@@ -5,9 +5,9 @@
 
 ## I'm a Developer, Student, Teacher and Personal Trainer!
 
-- 🌱 I’m currently building an application called Fit From Home. You can find it here -> www.fitfh.com
-- 👯 I plan on seeking employment and the opportunity to work for an exciting team in 2021.
-- 🥅  2021 Coding Goals: Improve React skills and learn React Native
+- 🌱 I’m currently learning Blockchain development
+- 👯 I plan on expanding my career to other levels of development.
+- 🥅  2021 Coding Goals: Master Typescript and React Native
 - ⚡ Fun fact: I love to cook and workout!
 
 ### Connect with me:
