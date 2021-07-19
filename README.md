@@ -1,14 +1,9 @@
-### Hi there 👋 I'm Brandon ✌️
+<!-- ### Hi there 👋 I'm Brandon ✌️
 
 [![Website](https://img.shields.io/website?label=BranAust.com&style=for-the-badge&url=https%3A%2F%2Fbranaust.com)](http://branaust.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/branaust?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=bran_aust)
 
 ## I'm a Developer, Student, Teacher and Personal Trainer!
-
-- 🌱 I’m currently learning Blockchain development
-- 👯 I plan on expanding my career to other levels of development.
-- 🥅  2021 Coding Goals: Master Typescript and React Native
-- ⚡ Fun fact: I love to cook and workout!
 
 ### Connect with me:
 
@@ -52,4 +47,4 @@
 
   <img align="left" alt="branAust's Github Stats" src="https://github-readme-stats-branaust.vercel.app/api?username=branaust&show_icons=true&hide_border=true"/>
 
-</details>
+</details> -->
